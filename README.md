@@ -34,7 +34,7 @@ Packaging decision-support prototype with deterministic calculations, explicit u
 
 **Team Lead**; contributions include [domain validation](https://github.com/Slave-of-Skynet/gigafood/pull/4), [eligibility safeguards](https://github.com/Slave-of-Skynet/gigafood/pull/6), and [Selection integration/demo checks](https://github.com/Slave-of-Skynet/gigafood/pull/19).
 
-**Python · FastAPI · React/TypeScript** · [Case study](https://github.com/Slave-of-Skynet/gigafood/blob/main/docs/portfolio.md)
+**Python · FastAPI · React/TypeScript** · [Case study](https://github.com/Slave-of-Skynet/gigafood/blob/main/docs/portfolio.md) · [Live static demo](https://slave-of-skynet.github.io/gigafood/)
 
 ### [FCIM Indoor Map](https://github.com/barbalatv/fcim-indoor-map) · Independent project
 Browser/SVG map connecting planned timetable events to explicitly identified rooms, with separate real-data and synthetic-demo modes. Coverage is incomplete; planned classes are not measured occupancy. An independent university-related prototype.
